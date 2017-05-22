@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "npm-run-all": "^3.1.2",
-    "pick-mongo-primary": "^0.5.0"
+    "pick-mongo-primary": "^0.5.0",
+    "mongodb-prebuilt": "^6.3.1"
   }
 }
